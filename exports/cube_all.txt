@@ -1,0 +1,400 @@
+Golden Wish
+Alabaster Mage
+Niblis of the Urn
+Reaper of Flight Moonsilver
+Sunhome Stalwart
+Angel of Retribution
+Ajani's Pridemate
+Spurnmage Advocate
+Invulnerability
+Nearheath Pilgrim
+Soul Tithe
+Absolute Law
+Ruham Djinn
+Royal Herbalist
+Knight of the Tusk
+Skillful Lunge
+Soul Parry
+Savannah Sage
+Devilthorn Fox
+Queen's Commission
+Akrasan Squire
+Parhelion Patrol
+Divine Favor
+Skyline Scout
+Solitary Camel
+Pillarfield Ox
+Prismatic Circle
+Suppression Bonds
+Dub
+Temporal Isolation
+Raise the Alarm
+Pitfall Trap
+Swift Justice
+Paladin of the Bloodstained
+Rousing of Souls
+Trusted Pegasus
+Spirit en-Kor
+Revered Elder
+Righteous Blow
+Veteran Armorsmith
+Eyes in the Skies
+Dazzling Reflection
+Silvercoat Lion
+Fiend Binder
+Lionheart Maverick
+Swift Justice
+Town Sentry
+Skyblade of the Legion
+Shackles
+Nav Squad Commandos
+Chaplain's Blessing
+Akroan Skyguard
+Safehold Sentry
+Font of Vigor
+Skyhunter Prowler
+Revitalize
+Stern Constable
+Tenth District Veteran
+Heavenly Qilin
+Glint Hawk
+Charm Peddler
+Faith's Fetters
+Foot Soldiers
+Ephara's Warden
+Aven Liberator
+Foothill Guide
+Kami of Ancient Law
+Glaring Aegis
+Sungrace Pegasus
+Faithbearer Paladin
+Judge Unworthy
+War Report
+Monk Realist
+Midnight Guard
+Suppression Bonds
+Faithbearer Paladin
+Vacuumelt
+Phantasmal Dragon
+Crab Umbra
+Flux Channeler
+Jace's Triumph
+Sigiled Starfish
+Adarkar Windform
+Pouncing Shoreshark
+Floodgate
+Think Tank
+Tolarian Emissary
+Merrow Witsniper
+Consign to Dream
+Paperfin Rascal
+Spontaneous Mutation
+Fortress Crab
+Oko's Accomplices
+Rootwater Commando
+Dream Twist
+Narcolepsy
+Blind Phantasm
+Oppressive Will
+Glimmerbell
+Aqueous Form
+Thalakos Scout
+Peek
+Kiora's Dambreaker
+Countermand
+Keep Safe
+Silkwing Scout
+Primal Plasma
+Gurmag Drowner
+Vision Skeins
+Spire Winder
+Temporal Eddy
+Halimar Wavewatch
+Jolt
+Slimebind
+Send to Sleep
+Stoic Rebuttal
+Stealth Mission
+Disarm
+Tandem Lookout
+Relic Runner
+Bone to Ash
+Drake Familiar
+Sailor of Means
+Facet Reader
+Steam Frigate
+Mistform Dreamer
+Whip-Spine Drake
+Labyrinth Minotaur
+Aeronaut Tinkerer
+Nimbus Naiad
+Errant Minion
+Thought Collapse
+Tome Scour
+Hands of Binding
+Oboro Breezecaller
+Vengeful Rebel
+Arterial Flow
+Vampiric Sliver
+Banshee
+Dunerider Outlaw
+Chain of Smog
+Exhumer Thrull
+Undercity Informer
+Appetite for Brains
+Gang Up
+Blood Host
+Grave Strength
+Sickening Dreams
+Tar Pit Warrior
+Brine Shaman
+Deathknell Kami
+Cuombajj Witches
+Smoldering Butcher
+Reave Soul
+Strands of Undeath
+Lurching Rotbeast
+Vampire Noble
+Afflict
+Foul Imp
+Seizures
+Kolaghan Skirmisher
+Supernatural Stamina
+Peppersmoke
+Regicide
+Macabre Waltz
+Twins of Maurer Estate
+Norritt
+Horror of the Dim
+Lurking Deadeye
+Midnight Charm
+Wrench Mind
+Strangling Soot
+Dutiful Return
+Tomb Hex
+Barrow Witches
+Dusk Imp
+Zombie Assassin
+Highway Robber
+Memory Leak
+Rats' Feast
+Wasteland Scorpion
+Recover
+Alesha's Vanguard
+Silumgar Butcher
+Disciple of the Vault
+Hunted Ghoul
+Infectious Horror
+Claim of Erebos
+Soulstinger
+Drudge Reavers
+Banehound
+Final-Sting Faerie
+Cower in Fear
+Grim Guardian
+Divest
+Dark Bargain
+Mire's Malice
+Assassinate
+Festering Goblin
+Sibsig Host
+Defile
+Marsh Hulk
+Spiderwig Boggart
+Hired Poisoner
+Grave Peril
+Psychotic Haze
+Felhide Minotaur
+Slavering Nulls
+Warmonger
+Conflagrate
+Impetuous Protege
+Mogg Jailer
+Balduvian Warlord
+Village Messenger
+Shatterstorm
+Shivan Sand-Mage
+Deem Worthy
+Momentum Rumbler
+Giant Harbinger
+Meteor Blast
+Barbed Shocker
+Stomping Slabs
+Goblin Mutant
+Pyroconvergence
+Sideswipe
+Goblin Wardriver
+Tremble
+Crush Underfoot
+Avarax
+Bloodfire Expert
+Tenement Crasher
+Draconic Roar
+Shatterskull Giant
+Gore-House Chainwalker
+Hunter Sliver
+Russet Wolves
+Ember-Fist Zubera
+Crown of Flames
+Incite Hysteria
+Granitic Titan
+Brassclaw Orcs
+Ember-Eye Wolf
+Goblin Furrier
+Berserkers of Blood Ridge
+Wild Guess
+Quakefoot Cyclops
+Sonic Seizure
+Goblin Medics
+Heartfire
+Mudbrawler Cohort
+Gerrard's Irregulars
+Flowstone Giant
+Salivating Gremlins
+Valakut Invoker
+Inescapable Brute
+Ogre Resister
+Onakke Ogre
+Heartlash Cinder
+Bomber Corps
+Dizzying Gaze
+Bloodlust Inciter
+Nyxborn Rollicker
+Flowstone Blade
+Laccolith Grunt
+Incite War
+Lava Storm
+Punish the Enemy
+Cartouche of Zeal
+Wild Celebrants
+Burn the Impure
+Akroan Sergeant
+Joven
+Vulshok Berserker
+Keldon Berserker
+Hostile Realm
+Smelt-Ward Gatekeepers
+Boggart Arsonists
+Ember Beast
+Zerapa Minotaur
+Sell-Sword Brute
+Spelleater Wolverine
+Furious Assault
+Reduce to Ashes
+Deputized Protester
+Fiery Intervention
+Infernal Plunge
+Crusher Zendikon
+Pyre Hound
+Precision Bolt
+Bring Low
+Lash Out
+Goblin Locksmith
+Starfall
+Omen of the Forge
+Tectonic Rift
+All Suns' Dawn
+Brooding Saurian
+Gravetiller Wurm
+Dense Canopy
+Spirespine
+Setessan Petitioner
+Bull Hippo
+Arborback Stomper
+Woodborn Behemoth
+Budoka Pupil // Ichiga, Who Topples Oaks
+Peema Aether-Seer
+Ana Sanctuary
+Treefolk Seedlings
+Foul Emissary
+Venomspout Brackus
+Ana Battlemage
+Triumph of Ferocity
+Sachi, Daughter of Seshiro
+Great Oak Guardian
+Soilshaper
+Cudgel Troll
+Duskdale Wurm
+Elvish Branchbender
+Elvish Fury
+Scatter the Seeds
+Winding Wurm
+Glade Watcher
+Howling Wolf
+Runeclaw Bear
+Runeclaw Bear
+Wary Okapi
+Quick Sliver
+Voyaging Satyr
+Plated Spider
+Kessig Dire Swine
+Cowl Prowler
+Greenseeker
+Horncaller's Chant
+Mantle of Webs
+Grave Bramble
+Spire Tracer
+Carapace
+Entangling Vines
+Somberwald Dryad
+Viridian Acolyte
+Sauroform Hybrid
+Surging Might
+Elder Pine of Jukai
+Primal Frenzy
+Lay of the Land
+Foxfire
+Child of Thorns
+Ondu Giant
+Quirion Trailblazer
+Hardy Veteran
+Sage of Shaila's Claim
+Blossom Dryad
+Greater Sandwurm
+Arlinn's Wolf
+Canopy Claws
+Frilled Sandwalla
+Wickerbough Elder
+Citanul Woodreaders
+Hornet Cobra
+Dawntreader Elk
+Conifer Strider
+Seeker of Skybreak
+Hunter's Ambush
+Warbriar Blessing
+Elvish Rejuvenator
+Saproling Migration
+Atarka Beastbreaker
+Quirion Sentinel
+Undergrowth
+Fire Sprites
+Leeching Bite
+Biomass Mutation
+Electrolyze
+Pledge of Unity
+Malicious Advice
+Dimir Infiltrator
+Vigean Hydropon
+Wild Cantor
+Kingpin's Pet
+Silkbind Faerie
+Valley Rannet
+Chemister's Trick
+Magefire Wings
+Streetbreaker Wurm
+Waveskimmer Aven
+Hammer Dropper
+Deputy of Acquittals
+Vassal Soul
+Tel-Jilad Stylus
+Fyndhorn Bow
+Mishra's Factory
+Grifter's Blade
+Herbal Poultice
+Opaline Unicorn
+Myr Adapter
+Bone Saw
+Pilgrim's Eye
+Gruul Cluestone
+Stalking Drone
+Tyrant's Machine
